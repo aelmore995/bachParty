@@ -13,7 +13,7 @@
     "argon-dashboard",
     "argon-dashboard-react"
   ],
-  "homepage": "https://aelmore995.github.io/cams-bach-party",
+  "homepage": "https://aelmore995.github.io/bachParty",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
